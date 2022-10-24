@@ -89,13 +89,13 @@ void Logic() {
 }
 int main() 
 {
-	int a, c;
-	while (a == true)
-	{
-		if (c == 'z')
-		{
-			a = false;
-		}
+	//int a, c;
+	//while (a == true)
+	//{
+	//	if (c == 'z')
+	//	{
+	//		a = false;
+	//	}
 
 		Setup();
 		while (!gameOver) {
@@ -104,5 +104,5 @@ int main()
 			Logic();
 		}
 		return 0;
-	}
+	//}
 }
