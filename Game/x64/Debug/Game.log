@@ -1,4 +1,2 @@
 ﻿  Snake.cpp
-C:\Users\User\Source\Repos\Game\Game\Snake.cpp(93,14): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
-C:\Users\User\Source\Repos\Game\Game\Snake.cpp(93): error C4700: использована неинициализированная локальная переменная "a"
-C:\Users\User\Source\Repos\Game\Game\Snake.cpp(95): error C4700: использована неинициализированная локальная переменная "c"
+  Game.vcxproj -> C:\Users\Программист Тоша\Desktop\Папки\Камиль\My-first-rep\x64\Debug\Game.exe
